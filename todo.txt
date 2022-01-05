@@ -1,0 +1,2 @@
+these components are designed for persian lang develop en lang also 
+complete read me -> using tutorial with requirment setup such as common styles to work properly
